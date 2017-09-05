@@ -1,0 +1,83 @@
+body{
+	font-family: arial;
+	background-image: url('../../images/admin/login1.jpg')
+}
+.form{
+	width: 500px;
+	margin: 70px auto;
+	box-sizing: border-box; /* from dáº¡ng há»™*/
+	box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+	padding-bottom: 40px;
+	background-color:rgba(0, 0, 0, 0.4);
+}
+.form h2{
+	text-align: center;
+	padding: 20px 0;
+	color: #fff;
+}
+.img-form{
+	padding-left: 140px;
+	margin-bottom: 30px ;
+
+}
+.form-main{
+	color: #fff;
+}
+.form-main div{
+	margin: 0px 90px 20px 100px;
+
+}
+.form-main input{
+	height: 35px;
+	width: 300px;
+	color: #666;
+	border-top: none;
+	border-left: none;
+	border-radius: 10px;
+	border-bottom: 1px #ccc solid;
+
+}
+
+.dangnhap input{
+	height: 35px;
+	width: 300px;
+	border: none;
+	border-radius: 4px;
+	margin-left: 0px;
+	color: #ffffff;
+	background-color: #0055A4;
+	cursor: pointer; /* chuyá»ƒn dáº¡ng con trá»� chuá»™t*/
+
+
+}
+.dangnhap input:hover{
+  transform: translateY(-3px);
+  
+
+}
+#check-box{
+	height: 15px;
+	width: 15px;
+	color: #fff;
+}
+.form-main a{
+	text-decoration: none;
+	color: #fff;
+}
+#cb{
+	float: left;
+}
+.clear{
+	clear: bottom;
+}
+.ttk{
+	margin-left: 100px;
+}
+.ttk a{
+	text-decoration: none;
+	color: #fff;
+}
+.ttk a:hover{
+	color: rgb(80, 247, 14);
+}
